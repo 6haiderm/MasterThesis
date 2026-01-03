@@ -1,1 +1,1 @@
-                                                      **##MASTER THESIS SUMMARY##**
+                                                      **MASTER THESIS SUMMARY**
