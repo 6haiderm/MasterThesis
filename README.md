@@ -1,7 +1,4 @@
-                                                     ** MASTER THESIS SUMMARY**
-
-
-                                                     <img width="1277" height="541" alt="hmthesis" src="https://github.com/user-attachments/assets/165785be-5649-4925-b661-38baed34d0be" />
+  <img width="1277" height="541" alt="hmthesis" src="https://github.com/user-attachments/assets/165785be-5649-4925-b661-38baed34d0be" />
 
 **Multi-Sensory Integration:** Data acquisition from three distinct sensor types selected for high-frequency industrial requirements.
 
